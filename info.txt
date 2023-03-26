@@ -1,0 +1,13 @@
+Pular uma execução de workflow
+	Adicionar [skip ci] no comentário do commit
+	
+	
+Artifacts
+Job Outputs
+Caching Depencies
+
+
+NPM commands
+	npm outdated
+	npm udate
+	npm audit fix
